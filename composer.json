@@ -1,5 +1,5 @@
 {
-    "name": "ckfinder/ckfinder-symfony-bundle",
+    "name": "metra-ckfinder",
     "description": "CKFinder bundle for Symfony Metra",
     "type": "symfony-bundle",
     "license": "MIT",
